@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Combat", "Combat.vcproj", "{27837723-6D87-4AB5-B217-5647E831232B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{27837723-6D87-4AB5-B217-5647E831232B}.Debug.ActiveCfg = Debug|Win32
+		{27837723-6D87-4AB5-B217-5647E831232B}.Debug.Build.0 = Debug|Win32
+		{27837723-6D87-4AB5-B217-5647E831232B}.Release.ActiveCfg = Release|Win32
+		{27837723-6D87-4AB5-B217-5647E831232B}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
